@@ -51,7 +51,7 @@ module.exports = ({ production } = {}) => ({
     compress: true,
     hot: false,
     liveReload: true,
-    port: 8080,
+    port: 8081,
     host: 'localhost',
     open: true,
   },

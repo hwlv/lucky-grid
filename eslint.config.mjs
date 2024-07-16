@@ -76,7 +76,7 @@ export default tsEslint.config(
       '@typescript-eslint/no-non-null-assertion': 'off',
       '@typescript-eslint/no-inferrable-types': 'error',
       '@typescript-eslint/no-unused-vars': ['error', { 'argsIgnorePattern': '^_', 'destructuredArrayIgnorePattern': '^_' }],
-      '@typescript-eslint/quotes': ['error', 'single', { 'allowTemplateLiterals': true }],
+      // '@typescript-eslint/quotes': ['error', 'single', { 'allowTemplateLiterals': true }],
       '@typescript-eslint/semi': 'error',
       'curly': 'error',
       'cypress/no-assigning-return-values': 'off',

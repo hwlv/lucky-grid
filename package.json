@@ -1,5 +1,5 @@
 {
-  "name": "slickgrid-react",
+  "name": "rc-react",
   "version": "5.3.1",
   "description": "Slickgrid components made available in React",
   "keywords": [
@@ -21,32 +21,18 @@
     },
     "./package.json": "./package.json"
   },
-  "homepage": "https://github.com/ghiscoding/slickgrid-react",
+  "homepage": "https://github.com/hwlv/rc-grid",
   "bugs": {
-    "url": "https://github.com/ghiscoding/slickgrid-react/issues"
+    "url": "https://github.com/hwlv/rc-grid/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ghiscoding/slickgrid-react.git"
+    "url": "https://github.com/hwlv/rc-grid.git"
   },
   "license": "MIT",
   "author": "Ghislain B.",
   "contributors": [
-    {
-      "name": "Ghislain B."
-    },
-    {
-      "name": "Devin Garner"
-    },
-    {
-      "name": "Javier Soques"
-    },
-    {
-      "name": "Dustin Garner"
-    },
-    {
-      "name": "Joel Peña"
-    }
+    
   ],
   "scripts": {
     "build:demo": "webpack --env production",

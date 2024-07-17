@@ -31,10 +31,9 @@
   },
   "license": "MIT",
   "author": "Ghislain B.",
-  "contributors": [
-    
-  ],
+  "contributors": [],
   "scripts": {
+    "buildtest": "tsc",
     "build:demo": "webpack --env production",
     "start": "webpack serve --env development",
     "dev": "webpack serve --env development",

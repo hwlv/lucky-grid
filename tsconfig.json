@@ -1,6 +1,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "outDir": "./dist/cjs",
     "target": "es2022",
     "module": "esnext",
     "sourceMap": true,
@@ -46,5 +47,9 @@
     "src/**/*.tsx",
     "src/typings/**/*.ts"
   ],
-  "typeAcquisition": { "include": ["jest"] }
+  "typeAcquisition": {
+    "include": [
+      "jest"
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "lucky-grid",
-  "version": "5.3.1",
+  "version": "1.0.1",
   "description": "Slickgrid components made available in React",
   "keywords": [
     "react",
@@ -21,13 +21,13 @@
     },
     "./package.json": "./package.json"
   },
-  "homepage": "https://github.com/hwlv/rc-grid",
+  "homepage": "https://github.com/hwlv/lucky-grid",
   "bugs": {
-    "url": "https://github.com/hwlv/rc-grid/issues"
+    "url": "https://github.com/hwlv/lucky-grid/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hwlv/rc-grid.git"
+    "url": "https://github.com/hwlv/lucky-grid.git"
   },
   "license": "MIT",
   "author": "Ghislain B.",
